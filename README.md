@@ -19,3 +19,5 @@ A list of online tools.
 
 ## Miscellaneous
 - Get barcode check digit https://www.gs1.org/check-digit-calculator
+- Mind map https://coggle.it/
+- Web sequence diagram https://www.websequencediagrams.com/
