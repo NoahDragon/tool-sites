@@ -4,6 +4,7 @@ A list of online tools.
 
 ## Programming
 - RegExp https://regexr.com/
+- Tensorflow playground http://playground.tensorflow.org
 
 ## Math
 - Online calculator https://instacalc.com/
