@@ -14,6 +14,10 @@ A list of online tools.
 - Beautifier http://xmlbeautifier.com/
 - Schema validation http://www.utilities-online.info/xsdvalidation/#.Wgku28anGUl
 
+## Notes
+- One Note https://www.onenote.com/ Pros: cheap Cons: storage is limited by one drive
+- Evernote https://evernote.com Prons: unlimited storage Cons: expensive, free version limited to two devices
+
 ## Presentation
 - Prezi https://prezi.com/
 - Transparent an image https://www168.lunapic.com/editor/?action=transparent
