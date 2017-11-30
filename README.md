@@ -15,7 +15,7 @@ A list of online tools.
 - Schema validation http://www.utilities-online.info/xsdvalidation/#.Wgku28anGUl
 
 ## Notes
-- One Note https://www.onenote.com/ Pros: cheap Cons: storage is limited by one drive
+- One Note https://www.onenote.com/ Pros: free Cons: storage is limited by one drive
 - Evernote https://evernote.com Prons: unlimited storage Cons: expensive, free version limited to two devices
 
 ## Presentation
