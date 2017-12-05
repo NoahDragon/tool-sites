@@ -1,4 +1,5 @@
 # Tools
+[![Build Status](https://travis-ci.org/NoahDragon/tool-sites.svg?branch=master)](https://travis-ci.org/NoahDragon/tool-sites)
 
 A list of online tools.
 
