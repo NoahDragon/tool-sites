@@ -24,6 +24,7 @@ A list of online tools.
 - Transparent an image https://www168.lunapic.com/editor/?action=transparent
 - Source code to image https://carbon.now.sh
 - Viso online alternative https://www.draw.io/
+- Markdown to html http://md.aclickall.com/ this converter retains code style well
 
 ## Miscellaneous
 - Get barcode check digit https://www.gs1.org/check-digit-calculator
