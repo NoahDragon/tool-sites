@@ -25,6 +25,7 @@ A list of online tools.
 - Source code to image https://carbon.now.sh
 - Viso online alternative https://www.draw.io/
 - Markdown to html http://md.aclickall.com/ this converter retains code style well
+- QR code generator http://goqr.me/
 
 ## Miscellaneous
 - Get barcode check digit https://www.gs1.org/check-digit-calculator
