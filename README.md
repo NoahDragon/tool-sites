@@ -18,7 +18,8 @@ A list of online tools.
 ## Notes
 - One Note https://www.onenote.com/ Pros: free Cons: storage is limited by one drive
 - Evernote https://evernote.com Prons: unlimited storage Cons: expensive, free version limited to two devices
-- Mendeley https://www.mendeley.com Paper tracker
+- Mendeley https://www.mendeley.com Paper tracker, free 2GB online storage
+- Zotero https://www.zotero.org Another paper tracker, open source, but online storage is only 300MB
 
 ## Presentation
 - Prezi https://prezi.com/
