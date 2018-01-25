@@ -3,6 +3,10 @@
 
 A list of online tools.
 
+## Automation
+- Sikuli http://www.sikuli.org/
+- AutoHotkey https://autohotkey.com/ Only on windows
+
 ## Programming
 - RegExp https://regexr.com/
 - Tensorflow playground http://playground.tensorflow.org
