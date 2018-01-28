@@ -15,6 +15,7 @@ A list of online tools.
 ## Math
 - Online calculator https://instacalc.com/
 - WolframAlpha (LaTex math formular calculation) http://www.wolframalpha.com/
+- NIST Digital Library of Mathematical Functions https://dlmf.nist.gov
 
 ## XML
 - Beautifier http://xmlbeautifier.com/
