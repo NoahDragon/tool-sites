@@ -40,6 +40,7 @@ A list of online tools.
 - Mind map https://coggle.it/
 - Web sequence diagram https://www.websequencediagrams.com/
 - HTML ASCII https://www.w3schools.com/charsets/ref_html_ascii.asp
+- Website speed test https://latency.apex.sh
 - Browser in browser 
   * https://www.browserling.com/
   * https://www.rabb.it
