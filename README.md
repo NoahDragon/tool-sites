@@ -45,3 +45,6 @@ A list of online tools.
   * https://www.browserling.com/
   * https://www.rabb.it
 - Analysis website viewers' behavior https://www.smartlook.com/
+- Free icons http://www.iconfont.cn/
+- PDF converter https://smallpdf.com/ 2 pdfs per hour
+- Free high-res photos https://unsplash.com/
