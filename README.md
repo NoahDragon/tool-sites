@@ -11,6 +11,7 @@ A list of online tools.
 - RegExp https://regexr.com/
 - Tensorflow playground http://playground.tensorflow.org
 - Google Machine Learning Colaboratory https://colab.research.google.com
+- Tensorflow hub https://www.tensorflow.org/hub/ like Caffe's model zoo
 
 ## Math
 - Online calculator https://instacalc.com/
